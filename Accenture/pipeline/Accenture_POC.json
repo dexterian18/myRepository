@@ -58,7 +58,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "DestinationDataset_qig",
+						"referenceName": "des_Datalake_Accenture_POC",
 						"type": "DatasetReference"
 					}
 				]
