@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_qig",
+				"name": "Copy Activity",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
