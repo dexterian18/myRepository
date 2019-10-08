@@ -1,5 +1,5 @@
 {
-	"name": "SourceDataset_qig",
+	"name": "src_BlobStorage_Accenture_POC",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorage_Accenture_POC",

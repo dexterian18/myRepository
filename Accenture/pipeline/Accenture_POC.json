@@ -52,7 +52,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "SourceDataset_qig",
+						"referenceName": "src_BlobStorage_Accenture_POC",
 						"type": "DatasetReference"
 					}
 				],
